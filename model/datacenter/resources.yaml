@@ -1,5 +1,6 @@
 groups:
   - id: datacenter
+    name: datacenter
     stability: experimental
     type: resource
     brief: >

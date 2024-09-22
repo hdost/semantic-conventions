@@ -1,6 +1,6 @@
 groups:
   - id: registry.datacenter
-    stability:
+    stability: experimental
     type: attribute_group
     display_name: Datacenter Attributes
     brief: >
